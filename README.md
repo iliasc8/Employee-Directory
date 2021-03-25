@@ -1,5 +1,16 @@
 # Unit 19 React Homework: Employee Directory
 
+Links:
+
+Github: https://github.com/iliasc8/Employee-Directory.git
+
+Heroku: https://employeedrirectory.herokuapp.com/
+
+
+![alt text](employeedirectory.PNG)
+
+![alt text](employeesort.PNG)
+
 ## Overview
 
 For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
